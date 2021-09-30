@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1ByteCoder
-- 👀 I’m interested in Android App Devlopment, Web App Devlopment, And Cross platform App Declopment Using Flutter
+- 👀 I’m interested in Android App Devlopment, Web App Devlopment, And Cross platform App Development Using Flutter
 - 📫 How to reach me 1bytecoder@gmail.com
 
 <!---
